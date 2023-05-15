@@ -15,7 +15,9 @@ public class Constants {
     public static final String USER_DELETED_MESSAGE = "User deleted successfully";
     public static final String RESPONSE_ERROR_MESSAGE_KEY = "error";
     public static final String WRONG_CREDENTIALS_MESSAGE = "Wrong credentials";
-    
+    public static final String AGE_NOT_VALID_MESSAGE = "Age not allowed, must be over 18 years old";
+    public static final String PHONE_NOT_VALID_MESSAGE = "Invalid Phone : example : +571234567891";
+    public static final String DNI_NOT_VALID_MESSAGE = "Invalid DniNumber size allowed 10 digits";
     public static final String NO_DATA_FOUND_MESSAGE = "No data found for the requested petition";
     public static final String PERSON_ALREADY_EXISTS_MESSAGE = "A person already exists with the DNI number provided";
     public static final String MAIL_ALREADY_EXISTS_MESSAGE = "A person with that mail already exists";
